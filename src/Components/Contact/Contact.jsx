@@ -43,9 +43,9 @@ const Contact = () => {
             <h3> Send us a messsage <img src={msg_icon} /></h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum doloribus commodi adipisci autem. Sint aperiam quo recusandae in, voluptas aspernatur magni corporis, </p>
             <ul>
-                <li><img src={mail_icon}  alt=''/> Contact@codelabsitsolution.com </li>
+                <li><img src={mail_icon}  alt=''/> contact@codelabsitsolution.com </li>
                 <li><img src={phone_icon}  alt=''/>+977 9816196736</li>
-                <li> <img src={location_icon} alt="" /> 77 middle area, Lakeside, <br/>  MA 01694, Nepal </li>
+                <li> <img src={location_icon} alt="" /> Uttamchowk, Rambazar, <br/>  Kaski, Nepal </li>
             </ul>
 
         </div>
